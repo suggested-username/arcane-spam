@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "data": {
+        "Enabled": true,
+        "Repeat": true,
+        "Move": true,
+        "Delay": 2,
+        "Lockon": true,
+        "LockBoss": false,
+        "Distance": 100,
+        "AutoMode": false,
+        "Hight": 200,
+        "Height": 200
+    }
+}
